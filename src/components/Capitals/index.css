@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.form-element {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 20px;
+}
+.country {
+  font-weight: bold;
+  font-size: 20px;
+}
